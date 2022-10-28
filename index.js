@@ -39,6 +39,6 @@ app.get('/news/:id', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log('Dragon News Server running on port', port);
+    console.log('Assignemnet Running on port', port);
 
 });
